@@ -1,0 +1,7 @@
+jupyter
+numpy
+matplotlib
+seaborn
+pandas
+scipy
+networkx==2.4
